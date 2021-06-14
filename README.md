@@ -1,2 +1,2 @@
-# iOS-tut
-Repository of iOS Tutorial Code
+# iOS_projects
+Repository of iOS Tutorial Projects
